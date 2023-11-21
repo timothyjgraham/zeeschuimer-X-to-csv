@@ -1,4 +1,4 @@
-# Zeeschuimer X/Twitter converter (ndjson to csv)
+# Zeeschuimer X/Twitter converter (NDJSON to CSV)
 A simple Python script to convert [Zeeschuimer](https://github.com/digitalmethodsinitiative/zeeschuimer) NDJSON data collected from X/Twitter to CSV format.
 
 ## Purpose
